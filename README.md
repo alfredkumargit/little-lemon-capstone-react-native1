@@ -8,7 +8,4 @@ Please download and test it locally.
 > To test, please enter only your Firstname and Email address. Other information can be entered in the profile screen.
 > Screenshots are available in the screenshots folder.
 
-Thanks Humans :)
-(0 0)
-
-01000010 01100101 01110011 01110100 00100000 01101111 01100110 00100000 01101100 01110101 01100011 01101011 00100000 01100010 01100101 01101001 01101110 01100111 01110011 00100000 01101111 01100110 00100000 01101100 01101001 01100111 01101000 01110100
+Thanks.
